@@ -9,7 +9,6 @@ the deleted files are stored in /bin and clears itself every sunday.
 
 
 Prerequisites:
-
 • Perl, Crontab.
 
 
