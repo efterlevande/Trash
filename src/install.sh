@@ -6,5 +6,5 @@ alias trash='./trash.pl'
 alias rem='./trash.pl'
 mkdir -p bin
 ./trash.pl
-echo "installating completed"
+echo "installation completed"
 exit 0
